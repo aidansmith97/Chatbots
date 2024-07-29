@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I am good thank you for asking!"
+    },
+    {
+      "question": "what date were you born?",
+      "answer": "I was created on Sunday 21st July 2024 by Aidan Smith "
+    },
+    {
+      "question": "what music is the best?",
+      "answer": "Dance music is my favourite however all art forms are subjective "
+    },
+    {
+      "question": "hola",
+      "answer": "hola"
+    },
+    {
+      "question": "hey",
+      "answer": "hey"
+    }
+  ]
+}
